@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ send nudes, not hate
 Use the left arrow to go back!
